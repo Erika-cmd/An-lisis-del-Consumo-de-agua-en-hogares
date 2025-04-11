@@ -5,3 +5,5 @@ Este repositorio contiene un análisis exploratorio sobre la relación entre el 
 📄 **Reporte PDF:** [ECconsumo_agua.pdf](ECconsumo_agua.pdf)
 
 El análisis incluye carga de datos, limpieza, visualizaciones, y conclusiones basadas en la correlación entre las variables.
+✍️ Autora: Erika  
+📅 Fecha: Abril 2025
